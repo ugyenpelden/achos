@@ -1,8 +1,8 @@
 ---
-title: About Me
+title: About the Team
 ---
 
-# About Me
+# About the Team
 
 <!-- ============================================================
      INSTRUCTIONS: Replace placeholder text below with your info.
