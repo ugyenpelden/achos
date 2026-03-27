@@ -18,7 +18,7 @@ hide:
 </div>
 
 
-_A place to document my journey, learning, and projects._
+_A place to document our journey, learning, and projects-TEAM ACHOS._
 
 </div>
 
