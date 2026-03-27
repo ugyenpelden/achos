@@ -25,7 +25,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: violet
+      primary: black
       accent: teal
       toggle:
         icon: material/brightness-7
