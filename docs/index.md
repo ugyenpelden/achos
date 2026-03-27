@@ -32,7 +32,7 @@ _A place to document our journey, learning, and projects-TEAM ACHOS._
 
 ###  About the team
 
-Learn more about who I am, my background, education, and skills.
+TEAM INFORMATION
 
 [:octicons-arrow-right-24: Go to About Me](about/index.md)
 
