@@ -6,10 +6,17 @@ hide:
 
 <!-- Hero Section -->
 <!-- 👇 Replace YOUR_FILE_ID with your Google Drive image file ID -->
-<div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=1XpVghCFdPBU_flmhSBTXg3IRLTQ4sQqi&sz=w1600') center/cover no-repeat;" markdown>
+<div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=18FudeFlGEBQvTXjI1Jp0AB1hGF8P1ajT&sz=w1600') center/cover no-repeat;" markdown>
+
+<div>
 
 
-# 👋 Welcome to My Documentation Site
+
+# 👋 Welcome 
+
+
+</div>
+
 
 _A place to document my journey, learning, and projects._
 
@@ -23,7 +30,7 @@ _A place to document my journey, learning, and projects._
 
 <div class="card" markdown>
 
-### 🧑‍💻 About Me
+###  About the team
 
 Learn more about who I am, my background, education, and skills.
 
@@ -53,23 +60,4 @@ Explore my project portfolio with detailed documentation for each one.
 
 </div>
 
----
 
-## 📖 How to Use This Site
-
-| Tab | What You'll Find |
-|-----|-----------------|
-| **Home** | This welcome page with quick links |
-| **About Me** | My introduction, skills, and contact info |
-| **Documentation** | Notes and guides on various topics |
-| **Projects** | Detailed documentation for each project |
-
-!!! tip "For Students Using This Template"
-
-    This site is built with **MkDocs Material**.  
-    Everything is written in **Markdown** — just edit the `.md` files in the `docs/` folder!  
-    Check the [README](https://github.com/yourusername/yourrepo) for setup instructions.
-    if you want to test in your local machine, use this command: 
-    - pip install mkdocs-material
-    - mkdocs serve --livereload
-    - Open http://127.0.0.1:8000
