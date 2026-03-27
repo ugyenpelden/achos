@@ -25,16 +25,16 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
+      primary: black
       accent: teal
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-8
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: yellow
+      primary: blue
       accent: teal
       toggle:
         icon: material/brightness-4
