@@ -42,7 +42,7 @@ TEAM INFORMATION
 
 ### 📚 Documentation
 
-Browse my notes, guides, and learning materials organized by topic.
+Moon Camp Learning Journey
 
 [:octicons-arrow-right-24: View Documentation](documentation/index.md)
 
