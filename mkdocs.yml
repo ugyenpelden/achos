@@ -25,7 +25,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
+      primary: gray
       accent: teal
       toggle:
         icon: material/brightness-8
@@ -34,7 +34,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: black
       accent: teal
       toggle:
         icon: material/brightness-4
