@@ -20,7 +20,7 @@ title: About the Team
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-![](https://drive.google.com/thumbnail?id=1ymhNnJSkIB8-FDbSTN6BysbPGOgPG7Mo&sz=w800)
+![](https://drive.google.com/thumbnail?id=1zZeCEj8It6B1t1GZBi9DCFBy_xcILBoC&sz=w800)
 
 
 <div class="profile-info" markdown>
