@@ -148,7 +148,7 @@ nav:
 
   - Documentation:
       - Overview: documentation/index.md
-      - "mooncamp1st": documentation/mooncamp1st.md
+      - "mooncamp1st.md": documentation/mooncamp1st.md
 
   - Projects:
       - Overview: projects/index.md
