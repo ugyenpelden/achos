@@ -32,28 +32,3 @@ Your first 3D design project.
 
 </div>
 
-</div>
-
----
-
-## ➕ How to Add New Documents
-
-!!! info "Adding a New Page"
-
-    1. **Create** a new `.md` file in the `docs/documentation/` folder  
-       _(e.g., `my-new-topic.md`)_
-
-    2. **Copy** the content from `template.md` as a starting point
-
-    3. **Add** your new page to `mkdocs.yml` under the `Documentation` section:
-
-        ```yaml
-        nav:
-          - Documentation:
-              - Overview: documentation/index.md
-              - Getting Started Guide: documentation/getting-started.md
-              - "📝 Blank Template": documentation/template.md
-              - My New Topic: documentation/my-new-topic.md    # ← add here
-        ```
-
-    4. **Save** and run `mkdocs serve` to see your changes!
