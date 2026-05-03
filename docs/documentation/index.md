@@ -28,7 +28,7 @@ materials organized by topic.
 
 Your first 3D design project.
 
-[:octicons-arrow-right-24: Read Guide](mooncamp1st)
+[:octicons-arrow-right-24: Read Guide](mooncamp1st.md)
 
 </div>
 
