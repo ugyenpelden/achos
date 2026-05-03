@@ -24,11 +24,11 @@ materials organized by topic.
 
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=YOUR_FILE_ID&sz=w800');" markdown>
 
-### 🚀 3D Designing
+### 🚀 Mooncamp 1st draft
 
 Your first 3D design project.
 
-[:octicons-arrow-right-24: Read Guide](3d_design.md)
+[:octicons-arrow-right-24: Read Guide](mooncamp1st)
 
 </div>
 
