@@ -22,7 +22,6 @@ materials organized by topic.
 
 
 
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=YOUR_FILE_ID&sz=w800');" markdown>
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1u1FVgVPn1y9yldOb27Wv-c5jTfsfYjnZ&sz=w800');" markdown>
 
 ### 🚀 Mooncamp 1st draft
