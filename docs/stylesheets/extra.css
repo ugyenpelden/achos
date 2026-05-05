@@ -33,26 +33,11 @@
 .hero-section::before {
   content: "";
   position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
+  inset: 0;
   background: radial-gradient(circle at 30% 50%,
       rgba(255, 255, 255, 0.08) 0%,
       transparent 50%);
-  animation: hero-shimmer 8s ease-in-out infinite;
-}
-
-@keyframes hero-shimmer {
-
-  0%,
-  100% {
-    transform: translate(0, 0);
-  }
-
-  50% {
-    transform: translate(5%, 3%);
-  }
+  pointer-events: none;
 }
 
 .hero-section h1 {
